@@ -6,7 +6,13 @@ namespace Assignment1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Rectangle r = new Rectangle();
+            Console.WriteLine("Area of Rectangle =" + r.GetArea());
+            Console.WriteLine("Perimeter of Rectangle =" + r.GetPerimeter());
+
+            Rectangle r1 = new Rectangle(4, 3);
+            Console.WriteLine("Area of Rectangle =" + r1.GetArea());
+            Console.WriteLine("Perimeter of Rectangle =" + r1.GetPerimeter());
         }
     }
 }

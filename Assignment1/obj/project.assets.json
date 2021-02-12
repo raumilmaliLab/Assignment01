@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\01 MSD\\Semister 02\\Software Quality Assurance Techniques\\AssignmentOne\\Assignment1\\Assignment1\\Assignment1.csproj",
+      "projectUniqueName": "D:\\01 MSD\\Semister 02\\Software Quality Assurance Techniques\\AssignmentOne\\Assignment1\\Assignment1.csproj",
       "projectName": "Assignment1",
-      "projectPath": "D:\\01 MSD\\Semister 02\\Software Quality Assurance Techniques\\AssignmentOne\\Assignment1\\Assignment1\\Assignment1.csproj",
+      "projectPath": "D:\\01 MSD\\Semister 02\\Software Quality Assurance Techniques\\AssignmentOne\\Assignment1\\Assignment1.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\01 MSD\\Semister 02\\Software Quality Assurance Techniques\\AssignmentOne\\Assignment1\\Assignment1\\obj\\",
+      "outputPath": "D:\\01 MSD\\Semister 02\\Software Quality Assurance Techniques\\AssignmentOne\\Assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

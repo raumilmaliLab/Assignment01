@@ -1,0 +1,13 @@
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+D:\01 MSD\Semister 02\Software Quality Assurance Techniques\AssignmentOne\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
